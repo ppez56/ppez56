@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ppez56
-- 👀 I’m interested in Tester Automation
+- 👀 I’m interested in Testing Automation
 - 🌱 I’m currently learning Appium
 - 💞️ I’m looking to collaborate on Agile Team
 - 📫 How to reach me linkedin/tanyapatsow
